@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588295876856",
+    "project_id": "loginregisterrn-6ea02",
+    "storage_bucket": "loginregisterrn-6ea02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588295876856:android:b601441b42d5217db5cb0d",
+        "android_client_info": {
+          "package_name": "com.mags.loginregistertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588295876856-h8bvf4l6lpsj7t043q9kscd63t02d3j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHiUv9Yo-pp0MFFDcYGIF1MOcQ2vm4pAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588295876856-h8bvf4l6lpsj7t043q9kscd63t02d3j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
